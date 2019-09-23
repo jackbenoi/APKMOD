@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="http://appmarketcms.dev/vendor/sitemap/styles/xml.xsl" type="text/xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>http://appmarketcms.dev/detail/faceapp?id=io.faceapp</loc>
+		<priority>0.8</priority>
+		<lastmod>2017-09-21T08:51:38+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>http://lh3.googleusercontent.com/HS2x_TynpfofhuuA0RJ3RQ-fZj7iAchEGpTCAbk8xHFCbPbOQk78P_qg9fPsPLcWbBw=w300</image:loc>
+			<image:title>FaceApp</image:title>
+			<image:caption>Transform your face using Artificial Intelligence in just one tap!&lt;br&gt;- Add...</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>http://appmarketcms.dev/detail/slitherio?id=air.com.hypah.io.slither</loc>
+		<priority>0.8</priority>
+		<lastmod>2017-09-21T08:54:30+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>http://lh3.googleusercontent.com/H_sOIa2wAK3Kc8un3af_clcNJuTA5zDzjY4v0H3wvuUYIOtcdcOnTRqIcz8ehijl7FE=w300-rw</image:loc>
+			<image:title>slither.io</image:title>
+			<image:caption>Play against other people online! Can you become the longest...</image:caption>
+		</image:image>
+  </url>
+</urlset>
+
